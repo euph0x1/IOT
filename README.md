@@ -25,9 +25,6 @@ Red → Green → Blue → Yellow → Purple → Cyan → White
 
 Each color is displayed for one second.
 
-Simulator:
-🔗 Open RGB LED TinkerCAD Simulation
-
 Concepts Covered:
 
 Arduino programming
@@ -35,6 +32,7 @@ PWM
 Digital output
 RGB color mixing
 Hardware-software integration
+
 2. Automatic Street Light System using LDR and ESP32
 
 Objective:
@@ -65,9 +63,6 @@ Component	ESP32 Pin
 LDR Analog Output	GPIO 34
 LED	GPIO 15
 
-Simulator:
-🔗 Open ESP32 Automatic Street Light – Wokwi
-
 Concepts Covered:
 
 ESP32
@@ -77,6 +72,7 @@ Threshold-based decision making
 GPIO control
 Smart lighting
 Energy-efficient IoT systems
+
 3. STM32 Fire/Smoke Detection and Alarm System
 
 Objective:
@@ -112,9 +108,6 @@ Sensor	A0 / PA0
 LED	D2 / PA1
 Buzzer	D3 / PA2
 
-Simulator:
-🔗 Open STM32 Fire/Smoke Detection – Wokwi
-
 Concepts Covered:
 
 STM32
@@ -123,6 +116,7 @@ Analog sensor processing
 Threshold-based detection
 LED and buzzer actuation
 Real-time safety monitoring
+
 4. Raspberry Pi Pico Based Motion Detection System
 
 Objective:
@@ -159,9 +153,6 @@ Component	Raspberry Pi Pico Pin
 Sensor	GP26
 LED	GP15
 
-Simulator:
-🔗 Open Raspberry Pi Pico Motion Detection – Wokwi
-
 Concepts Covered:
 
 Raspberry Pi Pico
@@ -169,7 +160,8 @@ GPIO
 Digital input/output
 Motion detection
 Real-time embedded systems
-Smart security systems
+Smart security 
+
 5. TinyML-Based LED Decision System using ESP32
 
 Objective:
@@ -199,8 +191,6 @@ Threshold Comparison
 
 The LED is connected to GPIO 2 and the decision process repeats every 500 ms.
 
-Simulator:
-🔗 Open TinyML ESP32 LED Decision System – Wokwi
 
 Note: The provided report does not contain a specific Wokwi project URL for Experiment 5; it only specifies Wokwi as the simulation platform.
 
@@ -234,7 +224,8 @@ ADC
 Sensor Interfacing
 Embedded Systems
 TinyML
-🎯 Learning Outcomes
+
+Learning Outcomes
 
 Through these experiments, the following concepts were explored:
 
