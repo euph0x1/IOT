@@ -1,0 +1,45 @@
+# Arduino / IDE generated files
+*.elf
+*.hex
+*.bin
+*.eep
+*.lst
+*.map
+*.o
+*.obj
+*.d
+*.a
+*.so
+*.dylib
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# VS Code and editor files
+.vscode/
+*.code-workspace
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Local secrets and credentials
+*.env
+.env*
+secrets.*
+credentials.*
+
+# Build / cache folders
+build/
+build-*/
+.cache/
+obj/
+bin/
+out/
+
+# Platform-specific artifacts
+*.ino.cpp
+*.pde.cpp
